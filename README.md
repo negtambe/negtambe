@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8C8577?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madalyntambe/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-8C8577?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madalyn.tambe@gmail.com)
 
-![Visitors](https://komarev.com/ghpvc/?username=negtambe&label=Save%20a%20spot%20on%20my%20map&color=1E3A8A&style=flat-square)
-
 </div>
 
 ---
@@ -28,18 +26,35 @@
 
 ### 🛠️ Tools I work in
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=sharepoint&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-8C8577?style=flat-square)
-![SPSS](https://img.shields.io/badge/SPSS-8C8577?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-8C8577?style=flat-square)
-![Lovable](https://img.shields.io/badge/Lovable-8C8577?style=flat-square)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-8C8577?style=flat-square)
+<table>
+<tr>
+<td><strong>📊 Data & Analytics</strong></td>
+<td align="right">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Stata-8C8577?style=flat-square">
+<img src="https://img.shields.io/badge/SPSS-8C8577?style=flat-square">
+</td>
+</tr>
+<tr>
+<td><strong>🔁 Workflow & Automation</strong></td>
+<td align="right">
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white">
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=sharepoint&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><strong>🤖 AI Tools</strong></td>
+<td align="right">
+<img src="https://img.shields.io/badge/Claude-8C8577?style=flat-square">
+<img src="https://img.shields.io/badge/Lovable-8C8577?style=flat-square">
+<img src="https://img.shields.io/badge/LM%20Studio-8C8577?style=flat-square">
+</td>
+</tr>
+</table>
 
 ---
 
