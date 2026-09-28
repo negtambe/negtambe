@@ -4,7 +4,7 @@
 
 # Hey, I'm Neg 👋🏾🧭
 
-**Business Analyst → aspiring Forward Deployed Product Lead, focused on products that operationalize healthcare's bottlenecks.**
+**Business Analyst → aspiring Forward Deployed Product Lead, building with AI coding tools to test product ideas fast — especially in healthcare workflows.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://negtambe.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8C8577?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madalyntambe/)
@@ -21,6 +21,7 @@
 - 🩺 Clinical & operational background spans pediatric hematology/oncology, WIC, epidemiological and clinical research
 - 🤸🏾‍♀️ Trained doula
 - 🏛️ Elected Honor Board Representative, Tulane PMBA
+- 🛠️ Ship working prototypes with Claude Code to pressure-test product ideas before they become engineering tickets — see **Liner Notes** below for the most recent one, built end-to-end in a single session
 
 ---
 
@@ -47,8 +48,9 @@
 </td>
 </tr>
 <tr>
-<td><strong>🤖 AI Tools</strong></td>
+<td><strong>🤖 AI-Assisted Building</strong></td>
 <td align="right">
+<img src="https://img.shields.io/badge/Claude%20Code-8C8577?style=flat-square">
 <img src="https://img.shields.io/badge/Claude-8C8577?style=flat-square">
 <img src="https://img.shields.io/badge/Lovable-8C8577?style=flat-square">
 <img src="https://img.shields.io/badge/LM%20Studio-8C8577?style=flat-square">
@@ -85,15 +87,25 @@ A claims transparency feature, from research to prototype.
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
 **🎵 Liner Notes**
-*For DJs, and the nostalgic · concept*
+*Personal project · live — web app + Chrome extension*
 
-To hear a song better, and remember how you heard it.
+For DJs and the nostalgic: stamp timestamped notes on a track while it plays, across multiple listens, then compare passes to see what you caught this time that you missed before. Ships two ways — a standalone web app (upload a file, YouTube, or Spotify), and a Chrome extension that floats directly on `open.spotify.com` so you never have to leave Spotify to use it.
 
-**Status:** early concept — sketching out features and flow. More coming soon!
-http://127.0.0.1:5173/ 
+Built solo with Claude Code — real PKCE OAuth, a Chrome Manifest V3 extension bridging two separate JS execution contexts, and working around a live Content-Security-Policy constraint on Spotify's own page.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1E3A8A?style=flat-square)](https://liner-notes-tambe.netlify.app/)
+[![Code](https://img.shields.io/badge/Code-8C8577?style=flat-square&logo=github&logoColor=white)](https://github.com/negtambe/liner-notes)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
