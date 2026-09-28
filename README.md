@@ -93,7 +93,7 @@ A claims transparency feature, from research to prototype.
 To hear a song better, and remember how you heard it.
 
 **Status:** early concept — sketching out features and flow. More coming soon!
-https://claude.ai/artifact/GH8oGJiR3ZMaj6y941EE52 
+http://127.0.0.1:5173/ 
 
 ---
 
