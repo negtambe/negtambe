@@ -99,6 +99,7 @@ Built solo with Claude Code — real PKCE OAuth, a Chrome Manifest V3 extension 
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1E3A8A?style=flat-square)](https://liner-notes-tambe.netlify.app/)
 [![Code](https://img.shields.io/badge/Code-8C8577?style=flat-square&logo=github&logoColor=white)](https://github.com/negtambe/liner-notes)
+[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-8C8577?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/negtambe/liner-notes/tree/main/chrome-extension)
 
 </td>
 <td width="50%" valign="top">
